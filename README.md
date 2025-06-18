@@ -43,3 +43,5 @@ Each notebook follows a standard ML pipeline:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Prajjwal6969/medical-prediction-ml.git
+2. Open the project folder and run the notebooks:
+   jupyter notebook
